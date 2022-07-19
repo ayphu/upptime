@@ -19,10 +19,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ayphu.com
   # baseUrl: /your-repo-name
-  logoUrl: https://landing.lagc-peru.com/wp-content/uploads/2022/07/logotipo-azul.svg
+  logoUrl: https://landing.lagc-peru.com/wp-content/uploads/ayphu-favicon.png
   favicon: https://landing.lagc-peru.com/wp-content/uploads/ayphu-favicon.png
-  theme: ocean
-  name: Página de status de Ayphu
+  themeUrl: https://status.ayphu.com/style.css
+  name: Página de status
   introTitle: "Esta es la página del status de los servicios de Ayphu"
   introMessage: En esta página podrás ver el status de los diferentes servicios de Ayphu como el panel de control, la documentación, etc.
   navbar:
