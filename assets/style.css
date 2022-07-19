@@ -2,5 +2,5 @@
   --body-background-color: #e9f1fb;
   --body-text-color: #f0ffff;
   --nav-background-color: #e9f1fb;
-  --nav-border-bottom-color: #e9f1fb;
+  --nav-border-bottom-color: #e9f1fb!important;
 }
