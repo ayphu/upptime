@@ -21,7 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://landing.lagc-peru.com/wp-content/uploads/2022/07/logotipo-azul.svg
   favicon: https://landing.lagc-peru.com/wp-content/uploads/ayphu-favicon.png
-  theme: dark
+  theme: night
   name: Página de status de Ayphu
   introTitle: "Esta es la página del status de los servicios de Ayphu"
   introMessage: En esta página podrás ver el status de los diferentes servicios de Ayphu como el panel de control, la documentación, etc.
