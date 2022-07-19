@@ -28,8 +28,6 @@ status-website:
   navbar:
     - title: Ayphu
       href: https://ayphu.com
-    - title: Docs
-      href: https://docs.ayphu.com
 
 i18n:
   activeIncidents: Incidentes activos
