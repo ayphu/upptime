@@ -21,7 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://landing.lagc-peru.com/wp-content/uploads/2022/07/logotipo-azul.svg
   favicon: https://landing.lagc-peru.com/wp-content/uploads/ayphu-favicon.png
-  theme: night
+  theme: ocean
   name: Página de status de Ayphu
   introTitle: "Esta es la página del status de los servicios de Ayphu"
   introMessage: En esta página podrás ver el status de los diferentes servicios de Ayphu como el panel de control, la documentación, etc.
@@ -34,7 +34,7 @@ status-website:
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
-  incidentReport: "Incident #$NUMBER report →"
+  incidentReport: "Incidente #$NUMBER reporte →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: Incident $NUMBER Details
   incidentDetails: Incident Details
@@ -45,7 +45,7 @@ i18n:
   incidentViewOnGitHub: View and Subscribe on GitHub
   incidentCommentSummary: Posted at $DATE by $AUTHOR
   incidentBack: ← Back to all incidents
-  pastIncidents: Past Incidents
+  pastIncidents: Incidentes pasados
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
   liveStatus: Live Status
   overallUptime: "Overall uptime: $UPTIME"
@@ -60,7 +60,7 @@ i18n:
   ms: ms
   loading: Cargando
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: 2022 © Ayphu - Todos los derechos reservados.
   rateLimitExceededTitle: Rate limit exceeded
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
@@ -76,16 +76,16 @@ i18n:
   errorTitle: An error occurred
   errorIntro: An error occurred in trying to get the latest status details.
   errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
+  errorHome: Ir a inicio
   pastScheduledMaintenance: Past Scheduled Maintenance
   scheduledMaintenance: Scheduled Maintenance
   scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
   scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
+  startedAt: Empezó a
+  startsAt: Empieza a
   duration: Duración
-  durationMin: $DURATION minutes
-  incidentCompleted: Completed
-  incidentScheduled: Scheduled
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
