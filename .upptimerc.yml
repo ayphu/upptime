@@ -35,52 +35,52 @@ i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
   incidentReport: "Incidente #$NUMBER reporte →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
-  incidentFixed: Fixed
-  incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
-  incidentViewOnGitHub: View and Subscribe on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← Back to all incidents
+  activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
+  incidentTitle: Detalles del incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Solucionado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto a las
+  incidentClosedAt: Cerrado a las
+  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Regresar a todos los incidentes
   pastIncidents: Incidentes pasados
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-  liveStatus: Live Status
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
-  sevelDayResponseTime: 7-day response time
-  responseTimeMs: Response time (ms)
-  up: Up
-  down: Down
-  degraded: Degraded
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
+  liveStatus: Estado en vivo
+  overallUptime: "Tiempo de actividad total: $UPTIME"
+  overallUptimeTitle: Actividad total
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Activo
+  down: Inactivo
+  degraded: Degradado
   ms: ms
   loading: Cargando
   navGitHub: GitHub
   footer: 2022 © Ayphu - Todos los derechos reservados.
-  rateLimitExceededTitle: Rate limit exceeded
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
-  rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
+  rateLimitExceededTitle: Excede el límite de velocidad
+  rateLimitExceededIntro: Has superado el número de solicitudes que puedes realizar en una hora, por lo que tendrás que esperar antes de volver a acceder a este sitio web. Alternativamente, puedes agregar un token de acceso personal de GitHub para continuar usando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. De manera predeterminada, GitHub permite que cada dirección IP realice 60 solicitudes por hora, las que se ha consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo arreglarlo?
+  rateLimitExceededErrorFix: Puedes esperar otra hora y se restablecerá el límite de tu dirección IP. Como alternativa, puedes agregar tu token de acceso personal de GitHub, que te brinda 5000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprende a generar un token de acceso personal
+  rateLimitExceededHasSet: Tienes un token de acceso personal establecido.
+  rateLimitExceededRemoveToken: Eliminar token
+  rateLimitExceededGitHubPAT: Token de acceso personal de GitHub
+  rateLimitExceededCopyPastePAT: Copiar y pegar tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ocurrió un error
+  errorIntro: Ocurrió un error al tratar de obtener los últimos detalles de estado.
+  errorText: Puedes intentar de nuevo en unos minutos.
   errorHome: Ir a inicio
-  pastScheduledMaintenance: Past Scheduled Maintenance
-  scheduledMaintenance: Scheduled Maintenance
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  pastScheduledMaintenance: Mantenimiento programado pasado
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Empezó el $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Empieza el $DATE por $DURATION minutos
   startedAt: Empezó a
   startsAt: Empieza a
   duration: Duración
