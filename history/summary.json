@@ -40,9 +40,9 @@
     "url": "https://docs.ayphu.com",
     "icon": "https://favicons.githubusercontent.com/docs.ayphu.com",
     "slug": "documentacion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 97,
     "timeMonth": 97,
     "timeYear": 97,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-21": 0
+    }
   }
 ]
