@@ -4,9 +4,9 @@
     "url": "https://ayphu.com",
     "icon": "https://favicons.githubusercontent.com/ayphu.com",
     "slug": "ayphu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 206,
     "timeMonth": 145,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "Panel de control",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/docs.ayphu.com",
     "slug": "documentacion",
     "status": "down",
-    "uptime": "20.68%",
+    "uptime": "19.92%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.48%",
-    "uptimeMonth": "20.68%",
-    "uptimeYear": "20.68%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "19.92%",
+    "uptimeYear": "19.92%",
     "time": 97,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2022-07-28": 75,
+      "2022-07-28": 560,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
